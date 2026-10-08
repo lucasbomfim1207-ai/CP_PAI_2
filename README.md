@@ -9,7 +9,11 @@ Checkpoint 02 — Módulo 2
 |---|---|
 | Julia Johanson Peniche Dias Da Silva | 572220 |
 | Lucas Bomfim Leite | 570420 |
-| Eduardo Barcelos De Carvalho Braziliano | 573274 |
+| Eduardo Barcelos De Carvalho Braziliano | 573274 |    
+
+
+[Link do Colab](https://colab.research.google.com/drive/1c_JkuXp1dfGEIITxOiQk4DumLQXGQb2j?usp=sharing) 
+
 
 ## O que é
 
